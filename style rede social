@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+
+body {
+    margin-top: 173px;
+    min-height: 100vh;
+    background: #19A1AE;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: 374px;
+    align-self: center;
+    background-color: white;
+}
+
+.background {
+    height: 140px;
+    width: 350px;
+    left: 0px;
+    top: 0px;
+}
+
+.perfil {
+    border-radius: 50%;
+    border: solid;
+    height: 96px;
+    width: 96px;
+    margin-left: 127px;
+    margin-top: -50px;
+}
+
+h1 {
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #2E3349;
+}
+
+h2 {
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #6B7082;
+}
+
+.nome {
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #2E3349;
+}
+
+.idade {
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #6B7082;
+}
+
+.cidade {
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #6B7082;
+}
+
+li {
+    list-style: none;
+    display: inline-table;
+    margin-left: 35px;
+    margin-bottom: 24px;
+}
+
+.subtitulos {
+    font-family: Kumbh Sans;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 1.5px;
+    text-align: center;
+}
+
+.aling-center {
+    align-self: center;
+    text-align: center;
+}
+
+hr {
+    height: 1px;
+    width: 350px;
+    left: 0px;
+    top: 285px;
+    border-radius: 0px;
+    background: #E8E9EC;
+}
