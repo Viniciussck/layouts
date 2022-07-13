@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Exercício 2</title>
+</head>
+
+<body>
+    <div class="container">
+        <div>
+            <img class="background" src="background.png" alt="imagem de fundo">
+            <img class="perfil" src="https://http2.mlstatic.com/D_NQ_NP_2X_908445-MLB47117855197_082021-F.webp"
+                alt="foto perfil">
+            <p class="aling-center">
+                <span class="nome">Victor Crest
+                </span>
+                <span class="idade">
+                    26
+                </span>
+            </p>
+            <p class="aling-center"><span class="cidade">
+                    London
+                </span></p>
+        </div>
+        <hr>
+        <div class="status">
+            <ul>
+                <li>
+                    <h1>80k</h1>
+                    <h2 class="subtitulos">Followers</h2>
+                </li>
+                <li>
+                    <h1>803k</h1>
+                    <h2 class="subtitulos">Likes</h2>
+                </li>
+                <li>
+                    <h1>1.4k</h1>
+                    <h2 class="subtitulos">Photos</h2>
+                </li>
+            </ul>
+        </div>
+    </div>
+</body>
