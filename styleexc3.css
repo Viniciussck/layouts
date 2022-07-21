@@ -88,3 +88,53 @@ h1 {
     margin-left: 705px;
     margin-top: 90px;
 }
+
+.parte-1 {
+    display: flex;
+}
+
+h2 {
+    color: #24303E;
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 49px;
+    letter-spacing: -0.285714px;
+}
+
+p {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: -0.128571px;
+    color: #808397;
+}
+
+.parte-1 button {
+    font-family: 'Fraunces 9pt Soft';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 15px;
+    line-height: 25px;
+    color: #24303E;
+}
+
+.parte-2 {
+    margin-right: 100px;
+    margin-left: 165px;
+    margin-top: 158px;
+}
+
+.parte-2 p {
+    margin-top: 32px;
+    margin-bottom: 40px;
+}
+
+.ovo {
+    left: 720px;
+    top: 800px;
+    width: 100vh;
+}
