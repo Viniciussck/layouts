@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,900&family=Ibarra+Real+Nova&family=Karla:wght@700&family=Kumbh+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@600&family=Fraunces:opsz,wght@9..144,900&family=Ibarra+Real+Nova&family=Karla:wght@700&family=Kumbh+Sans:wght@400;700&display=swap');
+
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+header {
+    background-image: url(../exc\ layouts/laranja.png);
+}
+
+.menu {
+    width: 1440px;
+    height: 800px;
+    float: left;
+    padding-left: 48px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    margin-top: 46px;
+    align-items: center;
+}
+
+span {
+    color: #FFFFFF;
+}
+
+.menu ul li {
+    list-style: none;
+    float: left;
+}
+
+.menu ul li a {
+    color: #FFFFFF;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    padding-right: 47px;
+    margin-right: 48px;
+    margin-top: 34px;
+}
+
+button {
+    border-radius: 28px;
+    height: 56px;
+    width: 140px;
+    border: none;
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.seta {
+    width: 30px;
+    height: 107px;
+}
+
+h1 {
+    width: 750px;
+    height: 69px;
+    left: 344.5px;
+    top: 195px;
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 56px;
+    line-height: 69px;
+    text-align: center;
+    letter-spacing: 8.75px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
