@@ -85,7 +85,7 @@ h1 {
 .seta {
     width: 30px;
     height: 107px;
-    margin-left: 705px;
+    margin-left: 660px;
     margin-top: 90px;
 }
 
@@ -136,5 +136,86 @@ p {
 .ovo {
     left: 720px;
     top: 800px;
-    width: 100vh;
+    width: 50%;
+}
+
+.taca {
+    width: 50%;
+    height: 600px;
+}
+
+.parte-3 {
+    margin-right: 100px;
+    margin-left: 165px;
+    margin-top: 158px;
+}
+
+.parte-3 p {
+    margin-top: 32px;
+    margin-bottom: 40px;
+}
+
+.parte-4 {
+    display: flex;
+}
+
+.cereja {
+    background-image: url(../Exercicios-seckim/cereja.png);
+    width: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parte-4 h3 {
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 28px;
+    line-height: 35px;
+    letter-spacing: -0.2px;
+    color: #24554A;
+    text-align: center;
+    margin-top: 398px;
+}
+
+.cereja-titulo {
+    color: #24554A;
+}
+
+.laranja {
+    background-image: url(../Exercicios-seckim/laranja2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+}
+
+.cereja-texto {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 27px;
+    letter-spacing: -0.114286px;
+    color: #19536C;
+    margin-top: 27px;
+    width: 50%;
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 59px;
+}
+
+.laranja-titulo {
+    color: #052C3B;
+}
+
+.laranja-texto {
+    color: #19536C;
+    margin-top: 27px;
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 59px;
 }
